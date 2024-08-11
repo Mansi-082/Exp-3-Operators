@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/91eb3728-a710-4e1d-addc-a4cffa3c7b81)# Experiment 3
+# Experiment 3
 ## Program 1
 ### Aim: 
 Take two numbers as input from user and perform arithmetic operations on those numbers
